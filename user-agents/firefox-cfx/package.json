@@ -1,0 +1,11 @@
+{
+  "name": "louder",
+  "fullName": "Amplify with Louder",
+  "id": "jid1-65WAytZEKnSL2g",
+  "description": "Promote any content online",
+  "author": "Louder",
+  "license": "©",
+  "version": "0.1",
+  "icon":"data/logo48.png",
+  "icon64":"data/logo64.png"
+}

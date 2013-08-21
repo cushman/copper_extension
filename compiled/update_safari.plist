@@ -6,15 +6,15 @@
    <array>
      <dict>
        <key>CFBundleIdentifier</key>
-       <string>is.copper.safari.badge</string>
+       <string>is.louder.safari.badge</string>
        <key>Developer Identifier</key>
-       <string>FHE652UPZG</string>
+       <string>65F964WUEK</string>
        <key>CFBundleVersion</key>
-       <string>1.2.3</string>
+       <string>0.1.0</string>
        <key>CFBundleShortVersionString</key>
-       <string>1.2.3</string>
+       <string>0.1.0</string>
        <key>URL</key>
-       <string>https://github.com/scott-fryxell/copper_extension/raw/master/compiled/copper.safariextz</string>
+       <string>https://github.com/cushman/louder_extension/raw/master/compiled/copper.safariextz</string>
      </dict>
    </array>
 </dict>

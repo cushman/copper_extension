@@ -2,8 +2,8 @@
   <head>
     <script>
       safari.application.addEventListener("command", function(event){
-        if(event.command === 'tip_this_page'){
-          event.target.browserWindow.activeTab.page.dispatchMessage("tip_this_page", null);
+        if(event.command === 'amplify_this_page'){
+          event.target.browserWindow.activeTab.page.dispatchMessage("amplify_this_page", null);
         }
       }, false);
 

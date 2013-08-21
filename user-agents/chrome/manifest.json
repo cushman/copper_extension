@@ -1,18 +1,18 @@
 {
-  "name": "copper",
+  "name": "Louder",
   "manifest_version": 2,
-  "version": "1.3.4",
-  "description": "A tipping and appreciation service",
+  "version": "0.1.0",
+  "description": "Promote anything online",
   "background": { "scripts": ["background.js"] },
-  "homepage_url": "https://www.copper.is/",
-  "icons": { "16": "logo_16.png",
-             "48": "logo_48.png",
-            "128": "logo_128.png"
+  "homepage_url": "https://louder.is/",
+  "icons": { "16": "logo16.png",
+             "48": "logo48.png",
+            "128": "logo128.png"
   },
   "browser_action": {
      "default_icon": {
-       "19": "button.png",
-       "38": "button@2x.png"
+       "19": "button19.png",
+       "38": "button38.png"
      },
      "default_title": "tip this page"
    },

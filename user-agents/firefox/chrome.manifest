@@ -1,5 +1,0 @@
-content copperbutton chrome/
-style chrome://global/content/customizeToolbar.xul chrome://copperbutton/content/button.css
-
-# Firefox
-overlay chrome://browser/content/browser.xul chrome://copperbutton/content/button.xul
